@@ -1,0 +1,10 @@
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(hwb(202 14% 28% / 0.575),
+            #0be016);
+    background-size: cover;
+    background-position: center;
+}
